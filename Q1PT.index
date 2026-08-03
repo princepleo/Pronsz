@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Buwan ng Wika</title>
+</head>
+
+<body style="background-color:lightyellow; font-family:Arial; text-align:center;">
+
+
+    <h1 style="color:darkblue;">Buwan ng Wika</h1>
+
+ 
+    <p>
+        Ang <b>Buwan ng Wika</b> ay ipinagdiriwang tuwing buwan ng Agosto
+        bilang paggalang sa ating <i>Wikang Filipino</i>. Layunin nito na
+        hikayatin ang bawat Pilipino na mahalin, gamitin, at ipagmalaki
+        ang ating sariling wika. Sa pamamagitan ng wikang Filipino,
+        naipapahayag natin ang ating damdamin, kultura, at pagkakakilanlan
+        bilang isang bansa.
+    </p>
+
+   
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+         alt="Bandila ng Pilipinas"
+         width="220">
+
+    <h2 style="color:darkred;">Bakit Mahalaga ang Wikang Filipino?</h2>
+
+    <p>
+        Ang wikang Filipino ay nagsisilbing tulay upang mas madaling
+        magkaunawaan ang mga Pilipino. Ito rin ay nagpapakita ng ating
+        kasaysayan, tradisyon, at kultura. Sa paggamit ng ating sariling
+        wika, naipapasa natin ang mga kaugalian at pagpapahalaga sa mga
+        susunod na henerasyon.
+    </p>
+
+    <h2 style="color:green;">Paano Ipinagdiriwang ang Buwan ng Wika?</h2>
+
+    <p>
+        Maraming paaralan ang nagsasagawa ng mga paligsahan tulad ng
+        <b>tula</b>, <b>talumpati</b>, <b>poster making</b>, at
+        <b>sabayan sa pagbigkas</b>. Ang ilan ay nagsusuot din ng
+        <i>tradisyunal na kasuotang Pilipino</i> upang ipakita ang
+        pagmamahal sa ating kultura.
+    </p>
+
+  
+    <p>
+        <b>Mahalin</b> ang ating wika.<br>
+        <i>Gamitin</i> ito nang may pagmamalaki.<br>
+        <u>Ipagpatuloy</u> ang pagpapahalaga sa kulturang Pilipino.
+    </p>
+
+    <p style="color:blue; font-size:20px;">
+        "Ang wikang Filipino ay susi sa ating pagkakaisa at pagkakakilanlan."
+    </p>
+
+</body>
+</html>
