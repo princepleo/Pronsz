@@ -1,0 +1,28 @@
+```css
+/* EXTERNAL CSS */
+
+/* Element selector */
+h2 {
+    color: #21618c;
+}
+
+/* Class selector */
+.activity-link {
+    transition: 0.3s;
+}
+
+/* ID selector */
+#top {
+    letter-spacing: 1px;
+}
+
+/* Universal selector */
+* {
+    box-sizing: border-box;
+}
+
+/* Attribute selector */
+a[target="_blank"] {
+    font-style: italic;
+}
+```
